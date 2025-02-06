@@ -12,6 +12,16 @@
     color: #1abc9c !important;
 }
 
+.navbar-toggler {
+    background-color: #1abc9c;
+}
+
+.navbar-toggler-icon {
+    filter: brightness(1000%);
+    width: 20px;
+    height: 20px;
+}
+
 .hero-sect {
     background-color: #1abc9c;
 }

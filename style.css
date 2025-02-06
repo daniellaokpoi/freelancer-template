@@ -40,3 +40,12 @@
     min-height: 100vh;
 }
 
+form {
+    display:block;
+    margin-top: 0em;
+    unicode-bidi: isolate;
+}
+
+.form-control {
+    padding-bottom: 4rem !important;
+}
